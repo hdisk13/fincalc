@@ -10,7 +10,7 @@ func main() {
 	interestRate := float64(0.425)
 	totalAmount := float64(1000.25)
 	months := years * 12
-	payment := float64(85)
+	payment := float64(39)
 
 	principal := totalAmount
 	for i := 1; i <= months; i++ {
